@@ -1,0 +1,1 @@
+Código Java para empleado en el desarrollo del trabajo implementación de la tecnología domótica X10 en OpenHAB.
